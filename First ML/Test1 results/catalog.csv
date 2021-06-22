@@ -1,0 +1,4 @@
+File name,Random state,Hidden layer size
+result1.csv,33,"(7, 100, 100, 100, 1)"
+result2.csv,34,"(7, 100, 100, 100, 1)"
+result3.csv,35,"(7, 100, 100, 100, 1)"
