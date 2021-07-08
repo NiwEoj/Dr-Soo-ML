@@ -1,18 +1,20 @@
+## Requirements
+
 Python modules used in this program are listed below.
 It is recommended to have all the modules below installed.
 
-numpy
+### numpy
     Enable the use of arrays and other mathematical tools
 
-pandas, matplotlib, seaborn 
+### pandas, matplotlib, seaborn
     Creates plots and tables for better visualization
     of data.
     
-sklearn
+### sklearn
     Machine learning module
     
-astropy
+### astropy
     Reads .fits files
 
-PySimpleGUI, winsound
+### PySimpleGUI, winsound
     Creates simple GUI and sound alerts 
