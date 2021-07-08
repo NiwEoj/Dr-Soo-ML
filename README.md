@@ -16,5 +16,5 @@ It is recommended to have all the modules below installed.
 ### astropy
     Reads .fits files
 
-### PySimpleGUI, winsound
+### PySimpleGUI, winsound, cellbell
     Creates simple GUI and sound alerts 
