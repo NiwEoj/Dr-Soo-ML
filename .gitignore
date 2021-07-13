@@ -2,3 +2,4 @@
 .DS_Store
 __pycache__/
 Test1 results
+Saved models and scalers

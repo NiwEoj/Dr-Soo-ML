@@ -21,3 +21,6 @@ It is recommended to have all the modules below installed.
 
 ### PySimpleGUI, winsound, cellbell
     Creates simple GUI and sound alerts 
+
+### joblib
+    Saves the machine learning model created in a local storage
