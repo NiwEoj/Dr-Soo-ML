@@ -4,7 +4,7 @@ Python modules used in this program are listed below.
 It is recommended to have all the modules below installed.
 
 ### Jupyter Notebook/ Jupyter Lab
-    Codes are saved in .ipynb files which are only accesible if one of these modelues is installed
+    Codes are saved in .ipynb files which are only accesible if one of these modules is installed
 
 ### numpy
     Enable the use of arrays and other mathematical tools
