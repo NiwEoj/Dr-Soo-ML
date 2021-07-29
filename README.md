@@ -1,3 +1,10 @@
+# First ML
+First ML is a Notebook designed to help people who are new to machine learning learn and use a simple Multi-layer Perceptron regressor model.
+
+The Multi-layer Perceptron model used in this Notebook is built from the sklearn.mlpregressor module.
+
+Be sure to check out our User Manual [here](https://niweoj.github.io/First-ML-User-Manual/docs/index.html)
+
 ## Requirements
 
 Python modules used in this program are listed below.
